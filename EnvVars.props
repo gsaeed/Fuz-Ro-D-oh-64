@@ -2,12 +2,12 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros">
-    <CrashRptIncludePath>C:\Users\shadeMe\Documents\VC++ LIB\CrashRpt\include</CrashRptIncludePath>
-    <CrashRptLibPath>C:\Users\shadeMe\Documents\VC++ LIB\CrashRpt\lib</CrashRptLibPath>
-    <DirectXIncludePath>C:\Users\shadeMe\Documents\VC++ LIB\DirectX\Include</DirectXIncludePath>
-    <DirectXLibPath>C:\Users\shadeMe\Documents\VC++ LIB\DirectX\Lib\x86</DirectXLibPath>
-    <SMESundriesIncludePath>C:\Users\shadeMe\Documents\[TES]\[Code]\[Libraries]\SME Sundries</SMESundriesIncludePath>
-    <XSECommonIncludePath>C:\Users\shadeMe\Documents\[TES]\[Code]\[Libraries]\xSE Common</XSECommonIncludePath>
+    <CrashRptIncludePath>C:\Users\gsaee\Documents\VC++ LIB\CrashRpt\include</CrashRptIncludePath>
+    <CrashRptLibPath>C:\Users\gsaee\Documents\VC++ LIB\CrashRpt\lib</CrashRptLibPath>
+    <DirectXIncludePath>C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um</DirectXIncludePath>
+    <DirectXLibPath>C:\Program Files (x86)\Windows Kits\10\Lib\10.0.19041.0\um\x86</DirectXLibPath>
+    <SMESundriesIncludePath>C:\Users\gsaee\Documents\[TES]\[Code]\[Libraries]\SME Sundries</SMESundriesIncludePath>
+    <XSECommonIncludePath>C:\Users\gsaee\Documents\[TES]\[Code]\[Libraries]\xSE Common</XSECommonIncludePath>
   </PropertyGroup>
   <PropertyGroup />
   <ItemDefinitionGroup />
